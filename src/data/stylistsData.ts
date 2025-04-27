@@ -7,7 +7,7 @@ export const stylists: Stylist[] = [
     name: "Priya Sharma",
     role: "Senior Hair Stylist",
     bio: "With over 10 years of experience, Priya specializes in creative cuts and coloring techniques. Her work has been featured in several fashion magazines.",
-    image: "/placeholder.svg",
+    image: "/Expert_Images/Priya Sharma.png",
     specialties: ["Hair Coloring", "Precision Cuts", "Bridal Styling"],
     experience: 10
   },
